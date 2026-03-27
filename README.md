@@ -14,7 +14,6 @@
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalefhilima)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 Atualmente sou aluno do curso de fullstack da Rocketseat. 
